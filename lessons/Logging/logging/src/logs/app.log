@@ -1,0 +1,10 @@
+2023-09-18 23:55:19,308 DEBUG o.e.Main [main] TEST 5 6
+2023-09-18 23:55:19,310 TRACE o.e.Main [main] someone writes something
+2023-09-18 23:55:49,012 DEBUG o.e.Main [main] TEST 5 6
+2023-09-18 23:55:49,014 TRACE o.e.Main [main] someone writes something
+2023-09-18 23:56:09,823 DEBUG o.e.Main [main] TEST 5 6
+2023-09-18 23:56:09,825 TRACE o.e.Main [main] someone writes something
+2023-09-18 23:56:33,479 DEBUG o.e.Main [main] TEST 5 6
+2023-09-19 00:01:04,232 DEBUG o.e.Main [main] TEST 5 6
+2023-09-19 00:01:23,527 DEBUG o.e.Main [main] TEST 5 6
+2023-09-19 00:01:23,529 TRACE o.e.Main [main] someone writes something
